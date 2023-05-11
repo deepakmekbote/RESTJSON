@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "first_name": "Saketa",
+      "last_name": "Ekbote",
+      "id": 1,
+      "subjectId": 1
+    },
+    {
+      "first_name": "Deepak",
+      "last_name": "Ekbote",
+      "id": 1,
+      "subjectId": 1
+    },
+    {
+      "first_name": "Govind",
+      "last_name": "Ahuja",
+      "id": 1,
+      "subjectId": 1
+    }
+  ],
+  "subjects": [
+    {
+      "name": "automation",
+      "id": 1
+    },
+    {
+      "name": "DevOps",
+      "id": 2
+    }
+  ]
+}
